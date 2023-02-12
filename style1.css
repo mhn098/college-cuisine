@@ -1,0 +1,317 @@
+body {
+	background-color: #ffe5fd;
+	color: #000000;
+	text-align: center;
+	margin-top: 80px;
+}
+.grid-container {
+	display: grid;
+	grid-template-columns: auto auto auto auto;
+  }
+#UNC {
+	background-color: #52bde8;
+	color: #000000;
+	font-size: 15px;
+	margin: 15px;
+	padding: 15px 25px;
+	font-size: 24px;
+	text-align: center;
+	cursor: pointer;
+	outline: none;
+	color: #fff;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 9px #999;
+}
+#NCSU {
+	background-color: #eb4141;
+	color: #000000;
+	font-size: 15px;
+	margin: 15px;
+	padding: 15px 25px;
+	font-size: 24px;
+	text-align: center;
+	cursor: pointer;
+	outline: none;
+	color: #fff;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 9px #999;
+} 
+#UNCC {
+	background-color: #47a53d;
+	color: #000000;
+	font-size: 15px;
+	margin: 15px;
+	padding: 15px 25px;
+	font-size: 24px;
+	text-align: center;
+	cursor: pointer;
+	outline: none;
+	color: #fff;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 9px #999;
+}
+#ASU {
+	background-color: #e8eb3a;
+	color: #000000;
+	font-size: 15px;
+	margin: 15px;
+	padding: 15px 25px;
+	font-size: 24px;
+	text-align: center;
+	cursor: pointer;
+	outline: none;
+	color: #fff;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 9px #999;
+}
+#DUKE {
+	background-color: #21218c;
+	color: #ffffff;
+	font-size: 15px;
+	margin: 15px;
+	padding: 15px 25px;
+	font-size: 24px;
+	text-align: center;
+	cursor: pointer;
+	outline: none;
+	color: #fff;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 9px #999;
+}#ECU {
+	background-color: #984ded;
+	color: #000000;
+	font-size: 15px;
+	margin: 15px;
+	padding: 15px 25px;
+	font-size: 24px;
+	text-align: center;
+	cursor: pointer;
+	outline: none;
+	color: #fff;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 9px #999;
+}
+#UNCW {
+	background-color: #43d9c5;
+	color: #000000;
+	font-size: 15px;
+	margin: 15px;
+	padding: 15px 25px;
+	font-size: 24px;
+	text-align: center;
+	cursor: pointer;
+	outline: none;
+	color: #fff;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 9px #999;
+}
+#UNCG {
+	background-color: #0c2d6b;
+	color: #ffffff;
+	font-size: 15px;
+	margin: 15px;
+	padding: 15px 25px;
+	font-size: 24px;
+	text-align: center;
+	cursor: pointer;
+	outline: none;
+	color: #fff;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 9px #999;
+}
+#WCU {
+	background-color: #9518cb;
+	color: #ffffff;
+	font-size: 15px;
+	margin: 15px;	
+	padding: 15px 25px;
+	font-size: 24px;
+	text-align: center;
+	cursor: pointer;
+	outline: none;
+	color: #fff;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 9px #999;
+}
+#WU {
+	background-color: #bdbf43;
+	color: #000000;
+	font-size: 15px;
+	margin: 15px;
+	padding: 15px 25px;
+	font-size: 24px;
+	text-align: center;
+	cursor: pointer;
+	outline: none;
+	color: #fff;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 9px #999;
+}
+#FSU_Fayetteville {
+	background-color: #2d7cd6;
+	color: #000000;
+	font-size: 15px;
+	margin: 15px;
+	padding: 15px 25px;
+	font-size: 24px;
+	text-align: center;
+	cursor: pointer;
+	outline: none;
+	color: #fff;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 9px #999;
+}
+#ELON {
+	background-color: #6e1313;
+	color: #ffffff;
+	font-size: 15px;
+	margin: 15px;
+	padding: 15px 25px;
+	font-size: 24px;
+	text-align: center;
+	cursor: pointer;
+	outline: none;
+	color: #fff;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 9px #999;
+}
+#DC {
+	background-color: #c41e1e;
+	color: #000000;
+	font-size: 15px;
+	margin: 15px;
+	padding: 15px 25px;
+	font-size: 24px;
+	text-align: center;
+	cursor: pointer;
+	outline: none;
+	color: #fff;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 9px #999;
+}
+#NCCU {
+	background-color: #701212;
+	color: #ffffff;
+	font-size: 15px;
+	margin: 15px;
+	padding: 15px 25px;
+	font-size: 24px;
+	text-align: center;
+	cursor: pointer;
+	outline: none;
+	color: #fff;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 9px #999;
+}
+#WFU {
+	background-color: #6d5720;
+	color: #ffffff;
+	font-size: 15px;
+	margin: 15px;
+	padding: 15px 25px;
+	font-size: 24px;
+	text-align: center;
+	cursor: pointer;
+	outline: none;
+	color: #fff;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 9px #999;
+}
+#UNCA {
+	background-color: #000000;
+	color: #ffffff;
+	font-size: 15px;
+	margin: 15px;
+	padding: 15px 25px;
+	font-size: 24px;
+	text-align: center;
+	cursor: pointer;
+	outline: none;
+	color: #fff;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 9px #999;
+}
+#UNCSA {
+	background-color: #c41e1e;
+	color: #ffffff;
+	font-size: 15px;
+	margin: 15px;
+	padding: 15px 25px;
+	font-size: 24px;
+	text-align: center;
+	cursor: pointer;
+	outline: none;
+	color: #fff;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 9px #999;
+}
+#UNCP {
+	background-color: #6c5030;
+	color: #ffffff;
+	font-size: 15px;
+	margin: 15px;
+	padding: 15px 25px;
+	font-size: 24px;
+	text-align: center;
+	cursor: pointer;
+	outline: none;
+	color: #fff;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 9px #999;
+}
+#HPU_HighPoint {
+	background-color: #4a146e;
+	color: #ffffff;
+	font-size: 15px;
+	margin: 15px;
+	padding: 15px 25px;
+	font-size: 24px;
+	text-align: center;
+	cursor: pointer;
+	outline: none;
+	color: #fff;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 9px #999;
+}
+#Meridith {
+	background-color: #672540;
+	color: #ffffff;
+	font-size: 15px;
+	margin: 15px;
+	padding: 15px 25px;
+	font-size: 24px;
+	text-align: center;
+	cursor: pointer;
+	outline: none;
+	color: #fff;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 9px #999;
+} 
+/* .button:active {
+	background-color: #3e8e41;
+	box-shadow: 0 5px #666;
+	transform: translateY(4px);
+}
+.button:hover {
+	background-color: #76ad78
+} */
