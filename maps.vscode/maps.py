@@ -6,7 +6,23 @@ import googlemaps
 from googlemaps import convert
 from googlemaps import convert
 from datetime import datetime
+import matplotlib.pyplot as plt
 
+with open('addresses.csv') as data:
+  datafilelines = data.readlines() 
+  
+  print(datafilelines) 
+
+mylist = [] 
+
+i = 1
+while (i < len(datafilelines)):
+  newint = int(datafilelines[i]) 
+  mylist.append(newint) 
+  i += 1
+print(mylist) 
+
+plt.plot(mylist)
 
 def geocode(client):
     params = {}
