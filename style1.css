@@ -1,4 +1,4 @@
-body {
+ body {
 	background-color: #ffe5fd;
 	color: #000000;
 	text-align: center;
@@ -8,7 +8,7 @@ body {
 	display: grid;
 	grid-template-columns: auto auto auto auto;
   }
-#UNC {
+/* #UNC {
 	background-color: #52bde8;
 	color: #000000;
 	font-size: 15px;
@@ -22,6 +22,24 @@ body {
 	border: none;
 	border-radius: 15px;
 	box-shadow: 0 9px #999;
+} */
+#UNC {
+    background-color: #4cb2e5;
+    border-radius: 100px;
+    box-shadow: rgba(44, 115, 187, 0.2) 0 -25px 18px -14px inset,rgba(44, 94, 187, 0.15) 0 1px 2px,rgba(67, 74, 210, 0.15) 0 2px 4px,rgba(44, 92, 187, 0.15) 0 4px 8px,rgba(44, 46, 187, 0.15) 0 8px 16px,rgba(67, 62, 209, 0.15) 0 16px 32px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    display: inline-block;
+    font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+    padding: 7px 20px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 250ms;
+    border: 0;
+    font-size: 25px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
 }
 #NCSU {
 	background-color: #eb4141;
@@ -290,7 +308,6 @@ body {
 	color: #fff;
 	border: none;
 	border-radius: 15px;
-	box-shadow: 0 9px #999;
 }
 #Meridith {
 	background-color: #672540;
@@ -305,13 +322,12 @@ body {
 	color: #fff;
 	border: none;
 	border-radius: 15px;
-	box-shadow: 0 9px #999;
-} 
-/* .button:active {
-	background-color: #3e8e41;
-	box-shadow: 0 5px #666;
-	transform: translateY(4px);
-}
-.button:hover {
-	background-color: #76ad78
-} */
+}  
+#UNC:hover {
+    box-shadow: rgba(84, 120, 218, 0.35) 0 -25px 18px -14px inset,rgba(87, 126, 224, 0.25) 0 1px 2px,rgba(88, 110, 222, 0.25) 0 2px 4px,rgba(74, 61, 208, 0.25) 0 4px 8px,rgba(58, 105, 234, 0.25) 0 8px 16px,rgba(61, 99, 226, 0.25) 0 16px 32px;
+    transform: scale(1.05) rotate(-1deg);
+    }
+#Meridith:hover {
+	box-shadow: rgba(201, 58, 58, 0.35) 0 -25px 18px -14px inset,rgba(187, 44, 44, 0.25) 0 1px 2px,rgba(196, 60, 60, 0.25) 0 2px 4px,rgba(187, 49, 44, 0.25) 0 4px 8px,rgba(187, 44, 44, 0.25) 0 8px 16px,rgba(215, 64, 62, 0.25) 0 16px 32px;
+	transform: scale(1.05) rotate(-1deg);
+	}
