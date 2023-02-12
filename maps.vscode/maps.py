@@ -19,7 +19,7 @@ gmaps = googlemaps.Client(key='AIzaSyCF2eWrSk2vKk1UqHVpB_65fCSWMPIP7v0')
 # Geocoding a random address
 geocode_result = str(gmaps.geocode("213 W Franklin Street, Chapel Hill, NC"))
 geocode_result = geocode_result.replace("\'", "\"")
-geocode_info = json.loads(geocode_result)
+geocode_info = json.loads(geocode_result) 
 
 geocode_lat = (geocode_info[0]['geometry']['location']['lat'])
 geocode_lng = (geocode_info[0]['geometry']['location']['lng'])
